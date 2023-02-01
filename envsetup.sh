@@ -1,3 +1,4 @@
+echo "envsetup.sh script"
 function hmm() {
 cat <<EOF
 
