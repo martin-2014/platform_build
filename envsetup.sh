@@ -1,4 +1,5 @@
 echo "envsetup.sh script"
+echo "testforandy demo"
 function hmm() {
 cat <<EOF
 
